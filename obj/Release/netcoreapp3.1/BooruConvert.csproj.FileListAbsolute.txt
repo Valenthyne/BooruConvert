@@ -1,0 +1,13 @@
+C:\Users\Drachy\source\repos\BooruConvert\bin\Release\netcoreapp3.1\BooruConvert.exe
+C:\Users\Drachy\source\repos\BooruConvert\bin\Release\netcoreapp3.1\BooruConvert.deps.json
+C:\Users\Drachy\source\repos\BooruConvert\bin\Release\netcoreapp3.1\BooruConvert.runtimeconfig.json
+C:\Users\Drachy\source\repos\BooruConvert\bin\Release\netcoreapp3.1\BooruConvert.runtimeconfig.dev.json
+C:\Users\Drachy\source\repos\BooruConvert\bin\Release\netcoreapp3.1\BooruConvert.dll
+C:\Users\Drachy\source\repos\BooruConvert\bin\Release\netcoreapp3.1\BooruConvert.pdb
+C:\Users\Drachy\source\repos\BooruConvert\obj\Release\netcoreapp3.1\BooruConvert.csprojAssemblyReference.cache
+C:\Users\Drachy\source\repos\BooruConvert\obj\Release\netcoreapp3.1\BooruConvert.AssemblyInfoInputs.cache
+C:\Users\Drachy\source\repos\BooruConvert\obj\Release\netcoreapp3.1\BooruConvert.AssemblyInfo.cs
+C:\Users\Drachy\source\repos\BooruConvert\obj\Release\netcoreapp3.1\BooruConvert.csproj.CoreCompileInputs.cache
+C:\Users\Drachy\source\repos\BooruConvert\obj\Release\netcoreapp3.1\BooruConvert.dll
+C:\Users\Drachy\source\repos\BooruConvert\obj\Release\netcoreapp3.1\BooruConvert.pdb
+C:\Users\Drachy\source\repos\BooruConvert\obj\Release\netcoreapp3.1\BooruConvert.genruntimeconfig.cache
